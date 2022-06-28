@@ -1,0 +1,174 @@
+{
+    "formId": "1350",
+    "sede": {
+          "id": "009",
+          "codigo": "LIM",
+          "nombre": "LIMA"
+        },
+        "asociacion": {
+          "id": "0090000235",
+          "nombre": "DAMAS EMPRENDEDORAS"
+        },
+        "asesor": {
+          "id": "000055",
+          "nombres": "BUSTAMANTE GUTIERREZ ELIZABETH GRACE"
+        },
+         "administrador": {
+          "id": "000026",
+          "nombres": "DIAZ PENADILLO JUANA LUZ"
+        },
+        "clienteId": "0090011317",
+  "documento": {
+          "codigo": "1",
+          "descripcion": "DNI/L.E."
+      },
+  "nuDocumento": "42037434",
+     "cliente": "MASHENKA ABIMAELA MIRANDA VALDIVIA",
+      "sexo": "F",
+        "nacimiento": "1983-07-26",
+   "pais": {
+          "id": "01",
+          "nombre": "PERU"
+      },
+  
+  "socio": 119,
+     "ciclo": "47",
+     "categoriaActual": "E",
+     "categoria": "B",
+     "categoriaProp": "A",
+     "tipoSocio": "N",
+     "cicloSocioIng": "46",
+  
+    "tecnico": {
+      "ventaTotal": 200.0,
+      "costoVenta": 201.0,
+      "otrosIngresos": 202.0,
+      "cuotaPagar": 203.0,
+      "utilEconomica": 204.0,
+      "utilBruta": 205.0,
+      "poGastoFamiliar": 8.0,
+      "caGastoFamiliar": 207.0,
+      "utilidad": 208.0,
+      "caEndeudamiento": 209.0,
+      "caja": 210.0,
+      "bancos": 211.0,
+      "cuentaCobrar": 212.0,
+      "mercaderia": 213.0,
+      "materiaPrima": 214.0,
+      "activoFijo": 215.0,
+      "cuentaPagar": 216.0,
+      "inventario": 217.0,
+      "toActivoCorriente": 218.0,
+      "totalActivo": 219.0,
+      "capital": 220.0,
+      "toPasivoPatrim": 221.0,
+      "rentabilidad": 9.0,
+      "liquidez": 5.0,
+      "poEndeudamiento": 6.0,
+      "lineaCredito": 224.0
+    },
+     "economico": {
+      "feIngreso": "2020-07-29T00:00:00.000-05:00",
+      "feRegistro": "2020-07-29T00:00:00.000-05:00",
+      "feModificacion": "2021-06-13T10:44:07.750-05:00",
+  "caducaDoc": "2024-09-05",
+  "celular": {
+        "tipoId": "C",
+        "personaId": null,
+        "codigo": "051",
+        "numero": "99374266"
+      },
+      "celularPropio": true,
+      "correo": "joseht8@gmail.com",
+      "religion": {
+        "id": "1",
+        "nombre": "CATÓLICO",
+        "activo": true
+      },
+      "profesion": {
+        "id": "3715",
+        "noCorto": "Técnico"
+      },
+      "instruccion": {
+        "id": "3715",
+        "noCorto": "Técnico"
+      },
+   "conyuge": {
+        "apPaterno": "CONYUGE_AP",
+        "apMaterno": "CONYUGE_AM",
+        "nombres": "CONYUFE_NOM",
+        "descripcion": "CONYUFE_NOM CONYUGE_AP CONYUGE_AM",
+         "ocupacion": "prueba conyuge"
+      },
+      "civil": {
+         "id": "D",
+          "nombre": "Divorciado"
+      },
+    "nuMenorDependiente": 2,
+      "numeroHijos": 2,
+   "ubDomicilio": {
+        "dptoId": "15",
+        "provId": "01",
+        "distId": "25",
+        "locId": "056746",
+        "departamento": "LIMA",
+        "provincia": "LIMA",
+        "distrito": "PUENTE PIEDRA",
+        "localidad": "PUENTE PIEDRA                 ",
+        "direccion": "PANAMERICA NORTE KM 27 DPTO N402 CONDOMINIO CIUDAD VERDE",
+        "tipo": {
+          "id": "DL",
+          "nombre": "Domicilio Legal"
+        }
+      },
+      "nuAnhoVivienda": {
+        "id": 6,
+        "campo": "1 año"
+      },
+      "servicioBasico": {
+          "id": 1,
+        "campo": "Luz, agua y desagüe"
+      },
+      "tipoLocalVivienda": {
+          "codigo": "01",
+        "descripcion": "PROPIO"
+      },
+      "tipoMaterialVivienda": {
+          "id": 15,
+        "campo": "Noble (ladrillo y cemento)"
+      },
+  "negocio": "VENTA DE POSTRES, MIEL Y QUESO",
+      "ruc": "0000",
+      "ciiu": {
+        "id": "525213",
+        "nombre": "COMERCIO - venta: comida, restaurant, sandwicheria, dulceria, cafeteria",
+        "sector": "COM"
+      },
+      "tipoLocalNegocio": {
+        "codigo": "01",
+        "descripcion": "PROPIO"
+      },
+      "nuAnioNegocio": "3",
+      "tipoTrabajador": "I",
+      "ubNegocio": {
+        "dptoId": "15",
+        "provId": "01",
+        "distId": "25",
+        "locId": "056746",
+        "departamento": "LIMA",
+        "provincia": "LIMA",
+        "distrito": "PUENTE PIEDRA",
+        "localidad": "PUENTE PIEDRA                 ",
+        "direccion": "PANAMERICA NORTE KM 27 DPTO N402 CONDOMINIO CIUDAD VERDE"
+      },
+      "tipoNegocio": {
+          "id": 18,
+        "campo": "Individual"
+      },
+  "licenciaFunc": "NO",
+      "diasAtencion": {
+          "id": 11,
+        "campo": "De Lunes a Viernes"
+      }
+    }
+  }
